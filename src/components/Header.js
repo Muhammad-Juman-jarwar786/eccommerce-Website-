@@ -31,7 +31,7 @@ const Header = () => {
         <Container>
           <Link to="/">
             <Navbar.Brand className={darkMode? 'text-dark-primary': 'text-light-primary'}>
-                <b>Simple-ecart</b>
+                <b>Sample Website</b>
             </Navbar.Brand>
           </Link>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
